@@ -62,7 +62,8 @@ public class Ariketa {
 		if (getClass() != obj.getClass())
 			return false;
 		Ariketa other = (Ariketa) obj;
-		return Objects.equals(abizena, other.abizena) && adina == other.adina && Objects.equals(izena, other.izena);
+		return Objects.equals(abizena, other.abizena) && Objects.equals(adina, other.adina)
+				&& Objects.equals(izena, other.izena);
 	}
 
 }
