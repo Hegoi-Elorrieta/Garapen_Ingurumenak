@@ -1,0 +1,19 @@
+1- Crear el repositorio en GITHUB
+
+2- Abrir GIT
+
+3- Empezamos con "git init"
+
+4- Escribimos un ""git status"
+
+5- Despues un "git add ."
+
+6- Volvemos a escribir un "git status" para comprobar que todo se alla subido
+
+7- Despues hacemos un commit con "git commit -m "Nombre del commit" "
+
+8- Luego haces un branch con "git branch -M main"
+
+9- Seguido copiamos el link que nos habra echo GITHUB al crear el repositorio
+
+10- Y acabaremos con un "git push -u origin main"
